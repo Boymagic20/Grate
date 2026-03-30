@@ -6,3 +6,4 @@ Graze is the previous maintainer of Bark
 KyleTheScientist made the backbone of Bark called Bark.
 baggZ, Gadabuda, Monky made mods
 
+![Downloads](https://img.shields.io/github/downloads/Boymagic20/Grate/total?style=for-the-badge&label=Downloads&color=green)
